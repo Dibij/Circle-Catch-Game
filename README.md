@@ -19,7 +19,7 @@ Hand Tracking Game is an interactive computer vision-based game that uses OpenCV
 ### Setup  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/Hand-Tracking-Game.git
+   git clone https://github.com/Dibij/Hand-Tracking-Game.git
    cd Hand-Tracking-Game
    ```  
 2. Install dependencies:  
