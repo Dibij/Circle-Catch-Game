@@ -1,7 +1,7 @@
-# Hand Tracking Game  
+# Circle Catch Game  
 
 ## Overview  
-Hand Tracking Game is an interactive computer vision-based game that uses OpenCV and a Haar Cascade classifier to detect hands. The goal is to "catch" a randomly appearing circle by placing your hand over it. The game also includes a scoring system and a game timer.  
+Circle Catch Game is an interactive computer vision-based game that uses OpenCV and a Haar Cascade classifier to detect hands. The goal is to "catch" a randomly appearing circle by placing your hand over it. The game also includes a scoring system and a game timer.  
 
 ## Features  
 - **Hand Detection**: Uses Haar Cascades to detect hands in real-time.  
